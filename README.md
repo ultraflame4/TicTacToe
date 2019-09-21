@@ -1,7 +1,7 @@
 # TicTacToe
 ### Python Tic Tac Toe
 **Tic Tac Toe, but in python, and made by a noob**
-_____
+
 ## Instructions
 **Run main.py**
 ## Changelog:
@@ -11,3 +11,4 @@ _____
 - Added "TicTacToe" Table
 - Added some layout
 - First Ever Commit
+- Added License
