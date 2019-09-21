@@ -6,7 +6,6 @@
 ## Important Stuff
 [Copyright Notice \ License \ Permissions](https://github.com/ultraflame4/TicTacToe/blob/master/LICENSE)
 ## Changelog:
-======
 ### Update(dev-0.1):
 #### First Update:
 - Added "TicTacToe" Table
